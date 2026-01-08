@@ -1,6 +1,6 @@
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MVCCar.Models;
-using System.Diagnostics;
 
 namespace MVCCar.Controllers
 {
